@@ -1,0 +1,27 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /css/
+Disallow: /cache/
+Disallow: /i/
+Disallow: /inc/
+Disallow: /js/
+Disallow: /mod/
+Disallow: /logs/
+Disallow: /tpl/
+Disallow: /admin.php
+Disallow: /banner.php
+Disallow: /c.php
+Disallow: /common.php
+Disallow: /config.php
+Disallow: /img.php
+Disallow: /admin.php
+Disallow: /install.php
+Disallow: /install_modules.php
+Disallow: /login.php
+Disallow: /logout.php
+Disallow: /updates2.php
+
+
+
+
+
